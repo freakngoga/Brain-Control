@@ -7,7 +7,7 @@ Howdy/Hola
 
 THe work here belongs a crazy project for Brain ControlleD Smart Things.
 
-Basically we have written a processing code and an Android APP to do cool things with Veralite Z-wave System.
+Basically we have written a processing code and an Android APP to do cool things with Brain Computer Interface and Internet-Of-Things and WiFi Technilogies.
 
 Source COdes can be found here and desription regarding the project can be found on our blog "www.freakngoga.com".
 
